@@ -1,0 +1,8 @@
+# ninja log v6
+6	122	7551924633961939	CMakeFiles/PseudoCode_challenges.dir/main.c.obj	532f1684a86f3b07
+113	263	7551965568165853	PseudoCode_challenges.exe	9220723348689ab5
+3	446	7551967139823352	build.ninja	9cdb9f3c388714ca
+5	113	7551965567079756	CMakeFiles/PseudoCode_challenges.dir/Challenge_6.c.obj	6cc23e180c33b6cc
+5	111	7551930065482724	CMakeFiles/PseudoCode_challenges.dir/Challenge_1.c.obj	71a3fddba603ad16
+5	113	7551950909570096	CMakeFiles/PseudoCode_challenges.dir/Challenge_4.c.obj	c85eb96460f9983e
+4	113	7551956017986224	CMakeFiles/PseudoCode_challenges.dir/Challenge_5.c.obj	3055038216512d15

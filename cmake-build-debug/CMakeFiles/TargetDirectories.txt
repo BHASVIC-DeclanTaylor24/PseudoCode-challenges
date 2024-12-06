@@ -1,0 +1,3 @@
+C:/Users/declan.taylor24/Downloads/PseudoCode-challenges/cmake-build-debug/CMakeFiles/PseudoCode_challenges.dir
+C:/Users/declan.taylor24/Downloads/PseudoCode-challenges/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/declan.taylor24/Downloads/PseudoCode-challenges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
